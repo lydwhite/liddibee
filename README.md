@@ -1,4 +1,4 @@
-<h3 style="text-align: center;">Hi, I'm Lydia (@liddibee)👋 </h3>
+### Hi, I'm Lydia (@liddibee)👋
 
 ---
 
@@ -10,8 +10,8 @@ I am a <b>
 👩🏼‍💻 *I'm currently working on...*
 - refining and expanding an **Individual Based Model** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height=16px /> that forecasts future lobster fisheries recruitment in Atlantic Canada.
 
-<a href="twitter.com/lwhitescience"><img src="https://img.shields.io/badge/lydia.white@unb.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="mailto:lydia.white@unb.ca"><img src="https://img.shields.io/badge/@LwhiteScience-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:lydia.white@unb.ca"><img src="https://img.shields.io/badge/lydia.white@unb.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.twitter.com/LWhiteScience"><img src="https://img.shields.io/badge/@LwhiteScience-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 ---
 
