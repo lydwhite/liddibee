@@ -15,7 +15,7 @@ I am a <b>
 
 ---
 
-###### 🫣 All my repositories are private... for now.
+###### 🫣 All (but one) of my repositories are private... for now.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
