@@ -3,7 +3,7 @@
 ---
 
 I am a <b>
-<a href="https://www.lydiawhite.ca">PhD student</a></b> at the <b>University of New Brunswick, Saint John.</b> My research interests are in American lobster biology and fisheries ecology.
+<a href="lydiawhite.ca">PhD student</a></b> at the <b>University of New Brunswick, Saint John.</b> My research interests are in American lobster biology and fisheries ecology.
 
 ---
 
